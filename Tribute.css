@@ -1,7 +1,9 @@
 *{
-    padding: 0px;
-    margin-top: 2rem;
+    padding: 0;
+    margin: 0;
+    text-indent: 0%;
     width: 100%;
+    
     
 }
 
@@ -11,19 +13,46 @@
     
 }
 
-.name{
+h1{
     background-color: lightgray;
    
+}
+
+.short-note{
+    margin-top: 2rem;
 }
 
 .image{
     max-width: 25%;
     margin-left: 35%;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+}
+main{
+    ackground-color: rgb(247, 243, 243);
+    width: 100%;
+    height: auto;
 }
 
 .about-him{
+    margin-bottom: 2rem;
     text-align: center;
-    width: 95%;
-    margin-left: 5px;
+    width: 45%;
+    margin-left: 350px;
     
+}
+
+.his-objectives{
+    margin-bottom: 2rem;
+    text-align: center;
+    width: 45%;
+    margin-left: 350px;
+}
+
+.his-achievements{
+    margin-bottom: 2rem;
+    text-align: center;
+    width: 45%;
+    margin-left: 350px;
+
 }
