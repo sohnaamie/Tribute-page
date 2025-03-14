@@ -9,8 +9,8 @@
 .my-box{
     width: 100%;
     height: auto;
-    background-color:blueviolet;
-    color: white;
+    background-color:lightgray;
+    color: black;
 }
 
 .header-elements{
@@ -31,17 +31,14 @@ h3,h4{
 
 
 h1{
-    background-color: rgb(118, 83, 105);
+    background-color: white;
     font-family: poppins, sans-serif;
    
 }
 
-a{
-    color:  rgb(118, 83, 105);
-}
 
 a:hover{
-    color: white;
+    color: red
 }
 
 .short-note{
